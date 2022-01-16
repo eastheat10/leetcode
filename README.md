@@ -2,3 +2,4 @@
 2. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 3. [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 4. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+5. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
